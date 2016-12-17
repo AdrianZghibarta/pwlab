@@ -1,0 +1,46 @@
+body {
+    background-image: url("./react-app/resources/images/general-bk.png");
+    background-repeat: repeat;
+    padding: 25px;
+    align-content: center;
+}
+
+#app {
+    background-image: url("./react-app/resources/images/paper-bk.png");
+    background-repeat: repeat;
+    border-radius: 4px;
+    padding: 35px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+@font-face {
+    font-family: MeltixBold;
+    src: url(./react-app/resources/fonts/Meltix_Bold_Demo.otf);
+}
+
+@font-face {
+    font-family: MeltixBoldItalic;
+    src: url(./react-app/resources/fonts/Meltix_Bold_Italic_Demo.otf);
+}
+
+@font-face {
+    font-family: MeltixItalic;
+    src: url(./react-app/resources/fonts/Meltix_Italic_Demo.otf);
+}
+
+@font-face {
+    font-family: MeltixLight;
+    src: url(./react-app/resources/fonts/Meltix_Light_Demo.otf);
+}
+
+@font-face {
+    font-family: MeltixLightItalic;
+    src: url(./react-app/resources/fonts/Meltix_Light_Italic_Demo.otf);
+}
+
+@font-face {
+    font-family: MeltixRegular;
+    src: url(./react-app/resources/fonts/Meltix_Regular_Demo.otf);
+}
